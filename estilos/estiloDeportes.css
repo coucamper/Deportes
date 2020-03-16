@@ -1,0 +1,83 @@
+/* Hoja de estilos deportivos */
+
+body{
+	font-family: 'Roboto Mono', monospace;
+	padding: 0 5%;
+}
+
+h1,h2,h3,h4,h5 {
+	font-family: 'Rubik Mono One', sans-serif;
+}
+.titular {
+	background-image: url("../imagenes/top-banner.jpg");
+	background-size: cover;	
+	height: 80px;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	background-color: #0063f8;
+	padding: 1% 0;
+	text-align: center;
+	font-size: 3em;
+	color: white;
+	margin: 0;
+}
+
+.title a{
+	color: #142846;
+	text-decoration: none;
+}
+
+
+h2{
+	color: #0063f8;
+	border-bottom: 1px solid #0063f8;
+}
+
+a {
+	color: #0063f8;
+}
+a:hover {
+	color: #000;
+}
+
+.title a:hover {
+	color: white;
+}
+
+
+.deporte{
+	margin: 5% 0 8% 0;
+}
+
+p{
+	padding-bottom: 2%;
+}
+
+mark {
+  background-color: #90b3e8;
+  color: black;
+}
+
+.footer{
+
+	background-color: #0063f8;
+	margin-bottom: 0;
+	font-weight: 800;
+	padding: 1%;
+}
+
+.footer a{
+	color: #0063f8;
+}
+
+small {
+	color: #19345d;
+	font-weight: 600;
+}
+
+span {
+	font-weight: 900;
+	font-style: 
+}
